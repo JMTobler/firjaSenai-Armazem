@@ -16,4 +16,4 @@ Atualmente, o projeto está em desenvolvimento e não está 100% completo. Estam
 - Linguagem de programação: HTML, PHP, JavaScript e CSS
 
 ## Equipe:
-Este projeto é desenvolvido pela equipe Senai - Barra do Piraí do curso Back-End do SENAI.
+Este projeto é desenvolvido pela equipe Senai - Barra do Piraí do curso Back-End 2023-02 do SENAI.
